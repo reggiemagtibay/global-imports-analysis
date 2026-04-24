@@ -31,13 +31,13 @@ This project aims to provide a **data-driven framework** to evaluate global mark
 
 ### 🌐 Global Overview
 
-![Global Overview](global-overview.png)
+![Global Overview](global-overview.jpg)
 
 ---
 
 ### 🚀 Growth & Market Insights
 
-![Growth Insights](growth-insights.png)
+![Growth Insights](growth-insights.jpg)
 
 ---
 
@@ -110,9 +110,9 @@ The dataset includes:
 
 ## 📁 Files Included
 
+- Global Imports Analysis Report (PDF)
 - Global Imports Dashboard (Power BI file)
 - Dataset (CSV format)
-- Dashboard screenshots
 
 ---
 
